@@ -15,8 +15,6 @@ In this task I had to create code for analyzing the financial records of a compa
 
 ## Screenshot of deployed website
 
-https://github.com/szeles0619/Console-Finances/issues/1#issue-1527549855
-
 <img width="960" alt="Challenge3" src="https://user-images.githubusercontent.com/119215005/211586738-9784966f-e3ce-4929-8e3b-020123779e59.png">
 
 
